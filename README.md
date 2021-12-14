@@ -12,5 +12,6 @@ Create a file index.html
 Use HTML to write content - create your profile page
 View your profile: https://kiranbits.github.io/ 
 
+Link to output profile page:
 
-file:///C:/Users/I524722/Downloads/Soujanya22.github.io-main/Soujanya22.github.io-main/index.html
+https://user-images.githubusercontent.com/69615806/146014716-e8e1cedd-0426-42c5-ac23-ccec89dd8c87.png
