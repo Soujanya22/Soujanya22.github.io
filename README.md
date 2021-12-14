@@ -13,4 +13,4 @@ Use HTML to write content - create your profile page
 View your profile: https://kiranbits.github.io/ 
 
 
-<img width=“964” alt=“Profile page output page” src=“(file:///C:/Users/I524722/Downloads/Soujanya22.github.io-main/Soujanya22.github.io-main/index.html”>
+file:///C:/Users/I524722/Downloads/Soujanya22.github.io-main/Soujanya22.github.io-main/index.html
